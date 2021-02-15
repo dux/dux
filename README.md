@@ -15,6 +15,7 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 | [json-exporter](https://github.com/dux/json-exporter) | Simple to use and extend, versioned, nested objects support, data exporter (use with APIs).
 | [clean-mock](https://github.com/dux/clean-mock) | Object creation helper/mocking lib with similar non-magic interface.
 | [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder.
+| [class-mattr](https://github.com/dux/class-mattr) | class-mattr gem provides a way to set and get method attributes.|
 
 ### JavaScript
 
