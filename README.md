@@ -8,16 +8,16 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 
 | Name | Description
 | - | -
-| [egoist](https://github.com/dux/egoist) | Access policy library, cleaner Pundit alternative.
+| [egoist](https://github.com/dux/egoist) | Access policy library, cleaner Pundit alternative
 | [joshua](https://github.com/dux/joshua) | Framework agnostic REST / JSON-RPC API implementation
 | [typero](https://github.com/dux/typero) | Type system with value coercion and constraints
-| [view-cell](https://github.com/dux/view-cell) | View cell is web view cell/component for use in Rails/Sinatra/Lux.
-| [json-exporter](https://github.com/dux/json-exporter) | Simple to use JSON data exporter, ment for use with APIs.
-| [clean-mock](https://github.com/dux/clean-mock) | Object creation helper/mocking lib with similar non-magic interface.
-| [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder.
-| [class-mattr](https://github.com/dux/class-mattr) | class-mattr gem provides a way to set and get method attributes.|
-| [class-cattr](https://github.com/dux/class-cattr) | class-cattr gem allowes to set and get class properties, in non polluting way.|
-| [class-callbacks](https://github.com/dux/class-callbacks) | Rails style callbacks for non Rails based projects|
+| [view-cell](https://github.com/dux/view-cell) | View cell is web view cell/component for use in Rails/Sinatra/Lux
+| [json-exporter](https://github.com/dux/json-exporter) | Simple to use JSON data exporter, for use with APIs
+| [clean-mock](https://github.com/dux/clean-mock) | Object creation helper/mocking lib with similar non-magic interface
+| [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder
+| [class-mattr](https://github.com/dux/class-mattr) | Provides a way to set and get method attributes
+| [class-cattr](https://github.com/dux/class-cattr) | Allowes to set and get class properties, in non polluting way
+| [class-callbacks](https://github.com/dux/class-callbacks) | Rails style callbacks for non Rails based projects
 
 ### JavaScript
 
