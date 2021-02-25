@@ -17,6 +17,7 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 | [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder.
 | [class-mattr](https://github.com/dux/class-mattr) | class-mattr gem provides a way to set and get method attributes.|
 | [class-cattr](https://github.com/dux/class-cattr) | class-cattr gem allowes to set and get class properties, in non polluting way.|
+| [class-callbacks](https://github.com/dux/class-callbacks) | Rails style callbacks for non Rails based projects|
 
 ### JavaScript
 
