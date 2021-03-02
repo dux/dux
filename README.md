@@ -15,6 +15,7 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 | [json-exporter](https://github.com/dux/json-exporter) | Simple to use JSON data exporter, for use with APIs
 | [clean-mock](https://github.com/dux/clean-mock) | Object creation helper/mocking lib with similar non-magic interface
 | [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder
+| [hash_wia](https://github.com/dux/hash_wia) | Hash with indifferent access - strings, symbols or methods.
 | [class-mattr](https://github.com/dux/class-mattr) | Provides a way to set and get method attributes
 | [class-cattr](https://github.com/dux/class-cattr) | Allowes to set and get class properties, in non polluting way
 | [class-callbacks](https://github.com/dux/class-callbacks) | Rails style callbacks for non Rails based projects
