@@ -1,6 +1,6 @@
 Hi, I am Dino.
 
-I have 15 years of development experince, primary in Ruby, JavaScript, Ptyhon, GoLang and Java. I also know how to use AWS, Docker, Postgre/MySQL, Snowflake and many other cool technologies.
+I have 20 years of development experince, primary in Ruby, JavaScript, Ptyhon, GoLang and Java. I also know how to use AWS, Docker, Postgre/MySQL, Snowflake and many other cool technologies.
 
 Allways learning and junior developer for life :) I hope you enjoy some of my libs
 
