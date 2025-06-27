@@ -33,4 +33,4 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 
 | Name | Description
 | - | -
-| Image resizer | modern image resizer that uses webp as basic image format
+| [Image resizer](https://github.com/dux/image-resizer-golang) | modern image resizer that uses webp as basic image format
