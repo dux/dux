@@ -24,7 +24,7 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 
 | Name | Description
 | - | -
-| [fez](https://github.com/dux/fez)  | Custom DOM Elements helper
+| [fez](https://github.com/dux/fez)  | Svelte inspired runtime (no compile) Custom DOM Elements lib
 | [node-notify](https://github.com/dux/node-notify)  | Socket notify server that can recieve update via socket or web.
 | [snake](https://svelte.dev/repl/f53791fbf4284bf99d7167a6655d0159?version=3.31.0) | Svelte3 implementation of popular snake game.
 
