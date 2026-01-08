@@ -33,4 +33,10 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 
 | Name | Description
 | - | -
-| [Image resizer](https://github.com/dux/image-resizer-golang) | modern image resizer that uses webp as basic image format
+| [Image resizer](https://github.com/dux/image-resizer-golang) | Modern image resizer that uses webp as basic image format
+
+### Swift (Mac)
+
+| Name | Description
+| - | -
+| [Applicaton launcer](https://github.com/dux/app-launcher) | Spotlight-like app launcher for macOS
