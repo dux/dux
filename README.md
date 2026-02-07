@@ -35,8 +35,10 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 | - | -
 | [Image resizer](https://github.com/dux/image-resizer-golang) | Modern image resizer that uses webp as basic image format
 
-### Swift (Mac)
+### Mac apps
 
 | Name | Description
 | - | -
-| [Applicaton launcer](https://github.com/dux/app-launcher) | Spotlight-like app launcher for macOS
+| [FileExplorer](https://github.com/dux/file_explorer_swift) | Native macOS Finder replacement, keyboard-driven, with rich file previews
+| [Application launcher](https://github.com/dux/app-launcher) | Spotlight-like app launcher for macOS
+| [Procfile Runner](https://github.com/dux/procfile-runner) | Desktop app for managing Procfile processes, built with Wails (Go + JS)
