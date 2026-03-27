@@ -35,6 +35,12 @@ Allways learning and junior developer for life :) I hope you enjoy some of my li
 | - | -
 | [Image resizer](https://github.com/dux/image-resizer-golang) | Modern image resizer that uses webp as basic image format
 
+### CLI Tools
+
+| Name | Description
+| - | -
+| [cf-api](https://github.com/dux/cf-api) | Single CLI for the full Cloudflare API - replaces wrangler + flarectl + curl
+
 ### Mac apps
 
 | Name | Description
