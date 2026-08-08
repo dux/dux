@@ -1,0 +1,50 @@
+Hi, I am Dino.
+
+I have 20 years of development experince, primary in Ruby, JavaScript, Ptyhon, GoLang and Java. I also know how to use AWS, Docker, Postgre/MySQL, Snowflake and many other cool technologies.
+
+Allways learning and junior developer for life :) I hope you enjoy some of my libs
+
+### Ruby
+
+| Name | Description
+| - | -
+| [egoist](https://github.com/dux/egoist) | Access policy library, cleaner Pundit alternative
+| [joshua](https://github.com/dux/joshua) | Framework agnostic REST / JSON-RPC API implementation
+| [typero](https://github.com/dux/typero) | Type system with value coercion and constraints
+| [view-cell](https://github.com/dux/view-cell) | View cell is web view cell/component for use in Rails/Sinatra/Lux
+| [json-exporter](https://github.com/dux/json-exporter) | Simple to use JSON data exporter, for use with APIs
+| [clean-mock](https://github.com/dux/clean-mock) | Object creation helper/mocking lib with similar non-magic interface
+| [html-tag](https://github.com/dux/html-tag) | Ruby HTML tag builder
+| [hash_wia](https://github.com/dux/hash_wia) | Hash with indifferent access - strings, symbols or methods.
+| [class-mattr](https://github.com/dux/class-mattr) | Provides a way to set and get method attributes
+| [class-cattr](https://github.com/dux/class-cattr) | Allowes to set and get class properties, in non polluting way
+| [class-callbacks](https://github.com/dux/class-callbacks) | Rails style callbacks for non Rails based projects
+
+### JavaScript
+
+| Name | Description
+| - | -
+| [fez](https://github.com/dux/fez)  | [Svelte](https://svelte.dev/) inspired runtime (no compile) [Custom DOM Elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements) lib
+| [node-notify](https://github.com/dux/node-notify)  | Socket notify server that can recieve update via socket or web.
+| [snake](https://svelte.dev/playground/2574bf0976334935a3b4755f8858b461?version=3.46.1) | Svelte implementation of popular snake game.
+
+
+### GoLang
+
+| Name | Description
+| - | -
+| [Image resizer](https://github.com/dux/image-resizer-golang) | Modern image resizer that uses webp as basic image format
+
+### CLI Tools
+
+| Name | Description
+| - | -
+| [cf-api](https://github.com/dux/cf-api) | Single CLI for the full Cloudflare API - replaces wrangler + flarectl + curl
+
+### Mac apps
+
+| Name | Description
+| - | -
+| [FileExplorer](https://github.com/dux/file_explorer_swift) | Native macOS Finder replacement, keyboard-driven, with rich file previews
+| [Application launcher](https://github.com/dux/app-launcher) | Spotlight-like app launcher for macOS
+| [Procfile Runner](https://github.com/dux/procfile-runner) | Desktop app for managing Procfile processes, built with Wails (Go + JS)

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#EFE4D0"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#AB6739"/>
+      <stop offset="1" stop-color="#8B4E29"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Cream sheet, macOS rounded-square proportions (824 square, 185 radius) -->
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#paper)"/>
+  <rect x="102" y="102" width="820" height="820" rx="183" fill="none" stroke="#DCCFB6" stroke-width="4"/>
+
+  <!-- Two ruled lines above and below the mark, so it reads as a page -->
+  <g fill="#DED2BB">
+    <rect x="262" y="238" width="500" height="16" rx="8"/>
+    <rect x="262" y="292" width="356" height="16" rx="8"/>
+    <rect x="262" y="716" width="500" height="16" rx="8"/>
+    <rect x="262" y="770" width="356" height="16" rx="8"/>
+  </g>
+
+  <!-- Markdown mark, centred -->
+  <g transform="translate(262 358) scale(2.40385)" fill="url(#ink)">
+    <path d="M5 15a10 10 0 0 1 10-10h178a10 10 0 0 1 10 10v98a10 10 0 0 1-10 10H15a10 10 0 0 1-10-10zm10 0v98h178V15z"/>
+    <path d="M30 98V30h20l20 25 20-25h20v68H90V59L70 84 50 59v39zm125 0l-30-33h20V30h20v35h20z"/>
+  </g>
+</svg>
