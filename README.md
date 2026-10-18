@@ -186,8 +186,15 @@ Reactive state, scoped styles, zero dependencies.
 
 | Name | Description |
 | - | - |
-| [image-resizer-golang](https://github.com/dux/image-resizer-golang) | AVIF-first resizing service. Two-layer cache, worker pool with request coalescing, admin dashboard |
 | [procfile-runner](https://github.com/dux/procfile-runner) | Procfile GUI, Go + Wails - see [Mac apps](#-mac-apps) above |
+
+---
+
+## 🦀 Rust
+
+| Name | Description |
+| - | - |
+| [image-resizer](https://github.com/dux/image-resizer) | AVIF-first image resizing by URL, libvips. Two-layer cache, request coalescing, STEP (CAD) renders, AuthCog admin |
 
 ---
 
