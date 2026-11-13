@@ -57,7 +57,6 @@ No implicit lookups, no surprises.
 | [html-tag](https://github.com/dux/html-tag) | HTML tag builder on steroids, with Rails / Sinatra / Lux adapters |
 | [hash_wia](https://github.com/dux/hash_wia) | Hash with indifferent access - strings, symbols or methods |
 | [lux-url](https://github.com/dux/lux-url) | URL object with a few extra features |
-| [lux-deploy](https://github.com/dux/lux-deploy) | SSH + rsync deploys. No Docker, no registry, one yaml file |
 | [lux_assets](https://github.com/dux/lux_assets) | Web asset packer - simplified webpack/sprockets, convention over configuration |
 | [schedulero](https://github.com/dux/schedulero) | Simple Ruby scheduler that runs tasks in intervals |
 | [image_resizer](https://github.com/dux/image_resizer) | Fast and stable Ruby image resizer |
@@ -204,7 +203,6 @@ Reactive state, scoped styles, zero dependencies.
 | - | - |
 | [cf-api](https://github.com/dux/cf-api) | One CLI for the full Cloudflare API. Replaces wrangler + flarectl + curl |
 | [hammer](https://github.com/dux/hammer) | Task runner with Rake-style paths and Thor-style args. LLMs love it |
-| [lux-deploy](https://github.com/dux/lux-deploy) | Caddy + systemd atomic-release deploys, driven by one yaml file |
 
 ---
 
